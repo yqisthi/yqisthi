@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... not gonna tell ya it's a secret
+- 🌱 I’m currently learning python and Javascript
+- 🤔 I’m looking for help with Data Science
+- 💬 Ask me about anything
+- 📫 How to reach me: line --> yqisthi
+- ⚡ Fun fact: I jumped in as programmer by accident
 <!--
 **yqisthi/yqisthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
