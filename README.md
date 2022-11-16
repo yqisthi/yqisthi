@@ -1,4 +1,5 @@
-just a small boy with big curiosity about programming.
+<h1 align="center">Hi, alô, Hallo, Bonjour, Selamat Datang</h1>
+Just a small boy with big curiosity about programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
